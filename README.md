@@ -7,11 +7,11 @@ E-Commerce Website is a web-based online shopping platform designed to provide u
 ## 🌐 Live Project
 
 **Project URL:**  
-https://polureshma02-byte.github.io/E-Commerce/
+[](https://github.com/polureshma02-byte/E-Commerce)
 
 ## 💻 GitHub Repository
 
-https://github.com/polureshma02-byte/E-Commerce
+[](https://github.com/polureshma02-byte/E-Commerce)
 
 ## 🛠️ Technologies Used
 
